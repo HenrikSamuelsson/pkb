@@ -25,5 +25,8 @@
   "markdown.preview.breaks": true,
   "pasteImage.path": "${projectRoot}/attachments",
   "pasteImage.showFilePathConfirmInputBox": true,
-  "prettier.singleQuote": false,
+"prettier.singleQuote": false,
+"cSpell.words": [
+    "Kormanyos"
+],
 }
