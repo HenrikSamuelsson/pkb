@@ -39,7 +39,7 @@ cmake --build .
 
 This produced an executable called `chapter1.exe` found in the subfolder `\simple_executable\Debug\`.
 
-Executed the newly built program:
+Executed the newly built program with this command:
 
 ```txt
 .\simple_executable\Debug\chapter1.exe
@@ -50,3 +50,18 @@ Execution caused the following output:
 ```txt
 Welcome to CMake Best Practices
 ```
+
+A typical file structure for for a CMake project looks like this:
+
+```txt
+.
+|- CMakeLists.txt
+|- build\
+|- src\
+```
+
+The file `CMakeLists.txt` contains instructions for CMake on how to create build instructions for the project. A CMake project requires this file at the root of the project and there can be additional files with this name in various subfolders.
+
+The `build` folder is used for output produced by CMake when running the build. If building an executable so will this end up in a subfolder under this folder.
+
+The `src` folder holds source code that forms the input when building with CMake. This can be a set of C or C++ source files to be compiled.
