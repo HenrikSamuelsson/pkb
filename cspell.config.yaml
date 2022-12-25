@@ -3,6 +3,7 @@ ignorePaths: []
 dictionaryDefinitions: []
 dictionaries: []
 words:
+  - choco
   - cpack
   - ctest
 ignoreWords: []
