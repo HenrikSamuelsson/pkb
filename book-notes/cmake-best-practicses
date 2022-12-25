@@ -25,3 +25,28 @@ The reason for changing the folder where CMake is to be installed is due to that
 
 ### Building Your First Project
 
+The book is accompanied by a GitHub repository [CMake-Best-Practices](https://github.com/PacktPublishing/CMake-Best-Practices) that I cloned on to my Windows PC. 
+
+Built a first project by use of commands in a terminal, as shown below, starting out at the root of the cloned repository. Note that output of commands are omitted.
+
+```txt
+cd chapter01
+mkdir build
+cd build
+cmake ..
+cmake --build .
+```
+
+This produced an executable called `chapter1.exe` found in the subfolder `\simple_executable\Debug\`.
+
+Executed the newly built program:
+
+```txt
+.\simple_executable\Debug\chapter1.exe
+```
+
+Execution caused the following output:
+
+```txt
+Welcome to CMake Best Practices
+```
