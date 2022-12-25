@@ -1,0 +1,12 @@
+# Book Notes - CMake Best Practices
+
+## Chapter 1 - Kickstarting CMake
+
+CMake is cross-platform free and open-source tool set for build automation, testing, packaging and installation of software. It is also compiler-independent which is a benefit to build and distribute cross-platform software.
+
+CMake includes the following three command-line tools:
+
+- `cmake`: CMake itself, used to generate build instructions
+- `ctest`: CMake's test utility, used to detect an run tests
+- cpack: CMake's packaging tool, used to pack software into install files
+-  
