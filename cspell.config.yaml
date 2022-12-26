@@ -6,5 +6,8 @@ words:
   - choco
   - cpack
   - ctest
-ignoreWords: []
+  - Seidensticker
+ignoreWords:
+  - Skjorta
+  - mittelblau
 import: []
