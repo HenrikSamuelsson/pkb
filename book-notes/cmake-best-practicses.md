@@ -68,3 +68,23 @@ The file `CMakeLists.txt` contains instructions for CMake on how to create build
 The `build` folder is used for output produced by CMake when running the build. If building an executable so will this end up in a subfolder under this folder.
 
 The `src` folder holds source code that forms the input when building with CMake. This can be a set of C or C++ source files to be compiled.
+
+## Understanding the CMake Build Process
+
+CMake uses a two step build process split into a configuration and build phase, and the first configuration phase is further split into two phases;configure and generate:
+
+- Configuration
+  - Configure
+    - Parse CMakeLists.txt
+    - Detect toolchains
+    - Detect the architecture
+    - Find dependencies
+    - Generate cache
+  - Generate
+    - Write build tool files
+    - Generate the cache
+- Build
+  - Compile binaries
+  - Link binaries
+  - Run tests
+  - Pack artifacts
