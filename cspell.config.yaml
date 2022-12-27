@@ -6,6 +6,7 @@ words:
   - choco
   - cpack
   - ctest
+  - gitmodule
   - Seidensticker
 ignoreWords:
   - Skjorta
