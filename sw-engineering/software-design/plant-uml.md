@@ -1,0 +1,18 @@
+---
+tags: uml, jre, vs-code, graphviz
+---
+# PlantUML
+
+PlantUML is an open-source tool for creation of UML diagrams from a plain text language. Besides various UML diagrams, PlantUML has support for various other software development related formats.
+
+## Installation
+
+PlantUML requires:
+
+- Java Runtime Environment (JRE)
+- Graphviz
+
+Nice to have when working with PlantUML is:
+
+- VS-Code
+- PlantUML extension for VS-code by jebbs
