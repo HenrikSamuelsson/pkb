@@ -17,6 +17,6 @@ Nice to have when working with PlantUML is:
 - VS-Code
 - PlantUML extension for VS-code by jebbs
 
-### JRE In Windows
+### JRE Windows Installation
 
 How to install a JRE version in windows is explained in this [StackOverflow post](https://stackoverflow.com/questions/52511778/how-to-install-openjdk-11-on-windows).
