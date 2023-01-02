@@ -1,5 +1,5 @@
 ---
-Tags: project-management, water-fall, agile
+tags: project-management, water-fall, agile
 ---
 
 # Project Uncertainty Space
