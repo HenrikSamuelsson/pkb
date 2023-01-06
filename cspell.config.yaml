@@ -6,9 +6,11 @@ words:
   - choco
   - cpack
   - ctest
+  - GCOV
   - gitmodule
   - Graphviz
   - jebbs
+  - LCOV
   - Seidensticker
 ignoreWords:
   - Skjorta
