@@ -12,6 +12,7 @@ words:
   - jebbs
   - LCOV
   - Seidensticker
+  - sonarlint
 ignoreWords:
   - Skjorta
   - mittelblau
