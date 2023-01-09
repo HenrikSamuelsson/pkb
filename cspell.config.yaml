@@ -3,14 +3,21 @@ ignorePaths: []
 dictionaryDefinitions: []
 dictionaries: []
 words:
+  - Ccache
   - choco
   - cpack
   - ctest
+  - fuzzer
+  - GCOV
   - gitmodule
   - Graphviz
   - jebbs
+  - LCOV
   - Seidensticker
+  - sonarlint
 ignoreWords:
+  - Lplusplus
   - Skjorta
   - mittelblau
+  - AFLplusplus
 import: []
