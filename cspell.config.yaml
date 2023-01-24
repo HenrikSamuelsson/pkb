@@ -7,12 +7,14 @@ words:
   - choco
   - cpack
   - ctest
+  - cyclomatic
   - fuzzer
   - GCOV
   - gitmodule
   - Graphviz
   - jebbs
   - LCOV
+  - pmccabe
   - Seidensticker
   - sonarlint
   - struct
