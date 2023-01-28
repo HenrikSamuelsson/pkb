@@ -1,8 +1,6 @@
-<img src="attachments/foam-icon.png" width=100 align="left">
+# Henrik Samuelsson PKB
 
-# Foam
-
-**👋 Welcome to your new Foam Knowledge Base!**
+👋 My Personal Knowledge Base built using the Foam framework.
 
 ## Getting started
 
