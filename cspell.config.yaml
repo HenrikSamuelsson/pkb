@@ -19,6 +19,7 @@ words:
   - sonarlint
   - struct
   - sysroot
+  - Texinfo
 ignoreWords:
   - Lplusplus
   - Skjorta
