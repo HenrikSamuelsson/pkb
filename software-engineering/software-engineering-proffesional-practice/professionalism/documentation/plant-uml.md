@@ -1,5 +1,5 @@
 ---
-tags: uml, jre, vs-code, graphviz
+tags: uml, jre, vs-code, graphviz, documentation
 ---
 # PlantUML
 
@@ -15,7 +15,7 @@ PlantUML requires:
 Nice to have when working with PlantUML is:
 
 - VS-Code
-- PlantUML extension for VS-code by jebbs
+- PlantUML extension for VS-Code by jebbs
 
 ### JRE Windows Installation
 
