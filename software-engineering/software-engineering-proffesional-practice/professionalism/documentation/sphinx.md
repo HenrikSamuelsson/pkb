@@ -1,5 +1,5 @@
 ---
-tags: documentation, documentation-generator
+tags: documentation, documentation-generator, sphinx
 ---
 # Sphinx
 
